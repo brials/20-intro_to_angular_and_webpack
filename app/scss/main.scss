@@ -1,0 +1,9 @@
+$bgColor: #888;
+
+
+body {
+  background: $bgColor;
+  section {
+    outline: dotted 1px orange;
+  }
+}
